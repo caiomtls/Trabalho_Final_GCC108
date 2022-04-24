@@ -3,41 +3,41 @@
 	<automaton>
 		<!--The list of states.-->
 		<state id="0" name="q0">
-			<x>401.0</x>
-			<y>388.0</y>
+			<x>239.0</x>
+			<y>310.0</y>
 			<initial/>
 		</state>
 		<state id="1" name="q1">
-			<x>524.0</x>
-			<y>389.0</y>
+			<x>362.0</x>
+			<y>311.0</y>
 		</state>
 		<state id="2" name="q2">
-			<x>647.0</x>
-			<y>389.0</y>
+			<x>485.0</x>
+			<y>311.0</y>
 		</state>
 		<state id="3" name="q3">
-			<x>776.0</x>
-			<y>390.0</y>
+			<x>614.0</x>
+			<y>312.0</y>
 		</state>
 		<state id="4" name="q4">
-			<x>894.0</x>
-			<y>390.0</y>
+			<x>732.0</x>
+			<y>312.0</y>
 		</state>
 		<state id="5" name="q5">
-			<x>694.0</x>
-			<y>481.0</y>
+			<x>532.0</x>
+			<y>403.0</y>
 		</state>
 		<state id="6" name="q6">
-			<x>894.0</x>
-			<y>275.0</y>
+			<x>732.0</x>
+			<y>197.0</y>
 		</state>
 		<state id="7" name="q7">
-			<x>1010.0</x>
-			<y>275.0</y>
+			<x>848.0</x>
+			<y>197.0</y>
 		</state>
 		<state id="8" name="q8">
-			<x>1124.0</x>
-			<y>276.0</y>
+			<x>962.0</x>
+			<y>198.0</y>
 			<final/>
 		</state>
 		<!--The list of transitions.-->
