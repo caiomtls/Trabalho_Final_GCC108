@@ -8,5 +8,5 @@ As soluções e a implementação estão no arquivo Tabalho_Final.ipynb localiza
 
 ## Autores
 
-- [Caio Silva](https://github.com/CaioMatheu5) :dragon:
+- [Caio Silva](https://github.com/caiomtls) :dragon:
 - [Katarina Friedrich](https://github.com/katfr) :cat:
